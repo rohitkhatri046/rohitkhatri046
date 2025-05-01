@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓡𝓸𝓱𝓲𝓽 𝓡𝓪𝓳</h1>
-<h3 align="center">Front-end development with HTML/CSS/JS and Back-end with Java OOP.</h3>
+<h3 align="center">𝓕𝓻𝓸𝓷𝓽-𝓮𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽 𝔀𝓲𝓽𝓱 𝓗𝓣𝓜𝓛/𝓒𝓢𝓢/𝓙𝓢 𝓪𝓷𝓭 𝓑𝓪𝓬𝓴-𝓮𝓷𝓭 𝔀𝓲𝓽𝓱 𝓙𝓪𝓿𝓪 𝓞𝓞𝓟.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkhatri046&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkhatri046" /> </p>
 
