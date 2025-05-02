@@ -1,13 +1,11 @@
-## 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮 👋
-
-<h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓡𝓸𝓱𝓲𝓽 𝓡𝓪𝓳</h1>
-<h3 align="center">𝓕𝓻𝓸𝓷𝓽-𝓮𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽 𝔀𝓲𝓽𝓱 𝓗𝓣𝓜𝓛/𝓒𝓢𝓢/𝓙𝓢 𝓪𝓷𝓭 𝓑𝓪𝓬𝓴-𝓮𝓷𝓭 𝔀𝓲𝓽𝓱 𝓙𝓪𝓿𝓪 𝓞𝓞𝓟.</h3>
+<h1 align="center">Hi 👋, I'm Rohit Raj</h1>
+<h3 align="center">Front-end development with HTML/CSS/JS and Back-end with Java OOP.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkhatri046&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkhatri046" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/rohit-raj-981420357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-raj-981420357/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-raj-981420357/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-raj-981420357/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,4 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkhatri046&show_icons=true&locale=en" alt="rohitkhatri046" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkhatri046&" alt="rohitkhatri046" /></p>
-
